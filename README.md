@@ -30,7 +30,13 @@
 - Develop and maintain systems documentation and runbooks
 - Mentor junior NOC team members
 
-**Platforms:** SolarWinds · ServiceNow · Cisco Transport Controller · Nlyte · StuxureWare DCE · BMS
+**Platforms:** SolarWinds · ServiceNow · Cisco Transport Controller · Nlyte · StuxureWare DCE · BMS · Cisco Catalyst Center
+
+**Cable Technician / IT Assistant** *(2016 – 2024)*
+- Ran and installed copper (Cat5/5e/6) and fiber cabling for voice, data, and Wi-Fi across campus
+- Installed IP cameras in security areas and configured patch panels and 110 voice blocks in IDF closets
+- Mapped cable runs, performed circuit troubleshooting, and maintained infrastructure documentation
+- Coordinated daily with field technicians to deliver voice and data services to campus users
 
 ---
 
