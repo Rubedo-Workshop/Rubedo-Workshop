@@ -1,37 +1,62 @@
 # Saint
 
-**NOC Technician** — monitoring, incident response, and network operations.
+**NOC Operator · Data Center Technician · Network & Security Professional**
+
+8+ years in network operations and infrastructure across enterprise environments. Currently working in a university NOC — monitoring critical systems, responding to incidents, and maintaining data center infrastructure.
 
 ---
 
 ## Certifications
 
-- Cisco CyberOps Associate
-- ISC2 Certified in Cybersecurity (CC)
-- CCNA *(in progress)*
+| Certification | Status |
+|---|---|
+| ISC2 Certified in Cybersecurity (CC) | Earned |
+| Cisco CyberOps Associate | Earned |
+| Fiber Optic Association (FOA) | Earned — 2021 |
+| CCNA | In Progress |
+
+**Education:** B.Tech, Computer Systems — Networking & Security · NYC College of Technology *(exp. 2026)*
+
+---
+
+## Experience
+
+**NOC Operator / Data Center Technician** *(2024 – Present)*
+- Monitor operating systems, servers, applications, and environmental facilities
+- Respond to cybersecurity monitoring alerts; participate in incident tracking and reporting
+- Execute network device changes: access port configs, device reboots, code upgrades
+- Troubleshoot using ping, traceroute, nslookup, `show cdp neighbor`, `show ip route`
+- Fabricate and install fiber optic (ST/SC/LC) and ethernet cabling (Cat5/5e/6)
+- Develop and maintain systems documentation and runbooks
+- Mentor junior NOC team members
+
+**Platforms:** SolarWinds · ServiceNow · Cisco Transport Controller · Nlyte · StuxureWare DCE · BMS
 
 ---
 
 ## Skills
 
 **Networking**
-`TCP/IP` `Routing & Switching` `Network Monitoring` `Incident Response` `Cisco IOS`
+`OSPF` `EIGRP` `RIP` `Static Routing` `NAT` `DHCP` `DNS` `IPv4/IPv6` `VPN` `802.1X` `WPA2/WPA3`
 
 **Security**
-`SOC Operations` `Threat Detection` `Security Fundamentals` `Log Analysis`
+`IDS/IPS` `SIEM` `Incident Response` `Cybersecurity Monitoring` `Secure Remote Access`
 
-**Systems & Tools**
-`Linux` `Bash` `Systemd` `Git`
+**Tools & Platforms**
+`SolarWinds` `ServiceNow` `Wireshark` `Cisco IOS` `JIRA` `Fluke Testers`
+
+**Scripting**
+`Bash` `PowerShell`
 
 ---
 
 ## Projects
 
 | Repo | Description |
-|------|-------------|
+|---|---|
 | [fanctl](https://github.com/Rubedo-Workshop/fanctl) | Fan control daemon + CLI for Mac Mini 2018 (T2) on Linux |
-| [gpu-fan](https://github.com/Rubedo-Workshop/gpu-fan) | NVIDIA eGPU fan curve script for Thunderbolt setups |
+| [gpu-fan](https://github.com/Rubedo-Workshop/gpu-fan) | NVIDIA eGPU fan curve script with automatic detection |
 
 ---
 
-*More repositories available on request.*
+*Additional repositories available on request.*
