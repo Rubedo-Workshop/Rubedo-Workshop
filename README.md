@@ -11,7 +11,7 @@
 | Certification | Status |
 |---|---|
 | ISC2 Certified in Cybersecurity (CC) | Earned |
-| Cisco CyberOps Associate | Earned |
+| Cisco CyberOps Associate | Earned — May 2026 |
 | Fiber Optic Association (FOA) | Earned — 2021 |
 | CCNA | In Progress |
 
@@ -46,7 +46,7 @@
 `OSPF` `EIGRP` `RIP` `Static Routing` `NAT` `DHCP` `DNS` `IPv4/IPv6` `VPN` `802.1X` `WPA2/WPA3`
 
 **Security**
-`IDS/IPS` `SIEM` `Incident Response` `Cybersecurity Monitoring` `Secure Remote Access`
+`IDS/IPS` `SIEM` `Incident Response` `SOC Operations` `Threat Analysis` `Security Monitoring` `Network Traffic Analysis` `Log Analysis` `Vulnerability Assessment` `Secure Remote Access`
 
 **Tools & Platforms**
 `SolarWinds` `ServiceNow` `Wireshark` `Cisco IOS` `JIRA` `Fluke Testers`
